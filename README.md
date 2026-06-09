@@ -1,5 +1,7 @@
 # Classifying Music Production Aesthetic from Spotify Audio Features
 
+Author: Taylor He
+
 **Language:** R  
 **Key packages:** tidymodels, ranger, xgboost, SuperLearner, tidyverse, pROC  
 **Dataset:** [Spotify Tracks Dataset — Kaggle](https://www.kaggle.com/datasets/priyamchoksi/spotify-dataset-114k-songs)
@@ -112,8 +114,8 @@ embeddings.
 ## Repository Structure
 
 ```
-├── Final_Project.Rmd        # Full analysis notebook
-├── Final_Project.html       # Knitted HTML output (readable without running R)
+├── Final-Project.Rmd        # Full analysis notebook
+├── Final-Project.pdf       # Knitted PDF output (readable without running R)
 ├── labeled_dataset.csv      # Labeled Spotify tracks dataset
 │                              (if file exceeds GitHub size limit, 
 │                               download from Kaggle link above and 
@@ -125,7 +127,7 @@ embeddings.
 
 ## How to Run
 
-Open `Final_Project.Rmd` in RStudio and knit to PDF. All required packages are 
+Open `Final-Project.Rmd` in RStudio and knit to PDF. All required packages are 
 loaded and listed in Section 1 of the notebook. Install any missing packages with 
 `install.packages()` before knitting. 
 
