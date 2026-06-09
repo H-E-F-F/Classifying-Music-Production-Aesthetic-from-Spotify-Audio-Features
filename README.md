@@ -1,4 +1,4 @@
-# Classifying-Music-Production-Aesthetic-from-Spotify-Audio-Features
+# Classifying Music Production Aesthetic from Spotify Audio Features
 
 **Language:** R  
 **Key packages:** tidymodels, ranger, xgboost, SuperLearner, tidyverse, pROC  
