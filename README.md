@@ -125,7 +125,7 @@ embeddings.
 
 ## How to Run
 
-Open `Final_Project.Rmd` in RStudio and knit to HTML. All required packages are 
+Open `Final_Project.Rmd` in RStudio and knit to PDF. All required packages are 
 loaded and listed in Section 1 of the notebook. Install any missing packages with 
 `install.packages()` before knitting. 
 
