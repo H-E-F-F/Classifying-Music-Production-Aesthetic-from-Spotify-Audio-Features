@@ -114,8 +114,8 @@ embeddings.
 ## Repository Structure
 
 ```
-├── Final-Project.Rmd        # Full analysis notebook
-├── Final-Project.pdf       # Knitted PDF output (readable without running R)
+├── Classifying Music Production Aesthetic from Spotify Audio Features.Rmd        # Full analysis notebook
+├── Classifying Music Production Aesthetic from Spotify Audio Features.html       # Knitted HTML output (readable without running R)
 ├── labeled_dataset.csv      # Labeled Spotify tracks dataset
 │                              (if file exceeds GitHub size limit, 
 │                               download from Kaggle link above and 
@@ -127,9 +127,9 @@ embeddings.
 
 ## How to Run
 
-Open `Final-Project.Rmd` in RStudio and knit to PDF. All required packages are 
-loaded and listed in Section 1 of the notebook. Install any missing packages with 
-`install.packages()` before knitting. 
+Open `Classifying Music Production Aesthetic from Spotify Audio Features.Rmd` in RStudio and knit to HTML.
+All required packages are loaded and listed in Section 1 of the notebook.
+Install any missing packages with `install.packages()` before knitting. 
 
 **Runtime note:** The SuperLearner fitting step in Section 6.6 is the most 
 computationally intensive part of the analysis. On a standard laptop with 
