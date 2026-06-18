@@ -116,6 +116,7 @@ embeddings.
 ```
 ├── Classifying Music Production Aesthetic from Spotify Audio Features.Rmd        # Full analysis notebook
 ├── Classifying Music Production Aesthetic from Spotify Audio Features.html       # Knitted HTML output (readable without running R)
+├── Classifying Music Production Aesthetic from Spotify Audio Features.pdf
 ├── labeled_dataset.csv      # Labeled Spotify tracks dataset
 │                              (if file exceeds GitHub size limit, 
 │                               download from Kaggle link above and 
